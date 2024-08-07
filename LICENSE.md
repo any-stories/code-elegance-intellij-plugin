@@ -60,10 +60,6 @@ You are not permitted to:
 
 
 
-
-
-
-
 ## Third-Party Services
 
 The Application may display, include or make available third-party content (including data, information, applications and other products services) or provide links to third-party websites or services.
@@ -99,13 +95,9 @@ Some jurisdictions do not allow the exclusion of certain types of warranties or 
 
 ## Limitation of Liability
 
-Notwithstanding any damages that You might incur, the entire liability of the Company and any of its suppliers under any provision of this Agreement and your exclusive remedy for all of the foregoing shall be limited to the amount actually paid by You for the Application or through the Application or 100 USD if You haven't purchased anything through the Application.
-
-To the maximum extent permitted by applicable law, in no event shall the Company or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, loss of data or other information, for business interruption, for personal injury, loss of privacy arising out of or in any way related to the use of or inability to use the Application, third-party software and/or third-party hardware used with the Application, or otherwise in connection with any provision of this Agreement), even if the Company or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose.
+Except as expressly provided in this agreement, neither Party shall be liable to the other Party for any indirect, incidental or consequential damages (including without limitation, damages resulting from loss of use, loss of profits, interruption or loss of business, lost goodwill, lost revenue and lost opportunity) arising out of any of the terms or conditions of this agreement or with respect to its performance hereunder. The foregoing limitation of liability and exclusion of damages applies even if a Party had or should have had knowledge, actual or constructive, of the possibility of such damages. The foregoing limitation of liability and exclusion of damages shall apply whether a claim is based on breach of contract, breach of warranty, tort (including negligence), product liability, strict liability or otherwise, and notwithstanding any failure of essential purpose of any limited remedy herein.
 
 Some states/jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so the above limitation or exclusion may not apply to You.
-
-
 
 ## Severability and Waiver
 
